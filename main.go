@@ -11,3 +11,5 @@ func main() {
 //พิมพ์ pk แล้วกด tab เพื่อขึ้นโครงสร้างของโค้ด
 //พิมพ์ fp แล้วกด tab เพื่อขึ้น fmt.Print("Hello World")
 //พิมพ์ go run main.go เพื่อรันโปรแกรมไฟล์นี้
+//ctrl+ship+p แล้วหาคำว่า Insert Snippet เพื่อพิมพ์เร็วขึ้น!
+//ใช้คำสั่ง go build .\main.go เพื่อใช้เป็น library .exe รันในเครื่องอื่นได้
